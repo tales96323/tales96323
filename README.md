@@ -72,7 +72,7 @@ const tales = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tales96323&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6233&icon_color=FF6233&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tales96323&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6233&icon_color=FF6233&text_color=C9D1D9" />
 <img height="165" src="https://streak-stats.demolab.com?user=tales96323&hide_border=true&background=0D1117&stroke=FF6233&ring=FF6233&fire=FF6233&currStreakLabel=FF6233&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 </div>
@@ -91,9 +91,6 @@ const tales = {
 <!-- Grafo de atividade: evolução das contribuições ao longo do tempo -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tales96323&hide_border=true&bg_color=0D1117&color=FF6233&line=FF6233&point=C9D1D9&area=true&area_color=FF6233&title_color=FF6233" />
 
-<!-- Troféus: destacam linguagens, commits e repositórios dominantes -->
-<img src="https://github-profile-trophy.vercel.app/?username=tales96323&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
 ---
@@ -102,10 +99,10 @@ const tales = {
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Analise_de_Conexoes.exe](https://www.talessantos.com.br)** | Calculadora Estrutural · AISC 360-16 | `TypeScript` `Engine` `Recharts` |
-| **[Gantt_Planner.exe](https://www.talessantos.com.br)** | Interactive Project Schedule | `React` `SVG` `TypeScript` |
-| **[EDUGRAM_App.exe](https://www.talessantos.com.br)** | Plataforma Educacional | `React Native` `Expo` `Node.js` `PostgreSQL` |
-| **[Data_Analysis_Tool.exe](https://www.talessantos.com.br)** | Análise Financeira · Fronteira Eficiente | `Python` `Markowitz` `Monte Carlo` |
+| **[Analise_de_Conexoes.exe](https://www.talessantos.com.br/duelo-conexoes)** | Calculadora Estrutural · AISC 360-16 | `TypeScript` `Engine` `Recharts` |
+| **[Gantt_Planner.exe](https://www.talessantos.com.br/gantt-chart)** | Interactive Project Schedule | `React` `SVG` `TypeScript` |
+| **[EDUGRAM_App.exe](https://www.talessantos.com.br/edugram)** | Plataforma Educacional | `React Native` `Expo` `Node.js` `PostgreSQL` |
+| **[Data_Analysis_Tool.exe](https://www.talessantos.com.br/fronteira-eficiente)** | Análise Financeira · Fronteira Eficiente | `Python` `Markowitz` `Monte Carlo` |
 
 > `→` Explore tudo em **[talessantos.com.br](https://www.talessantos.com.br)**
 
